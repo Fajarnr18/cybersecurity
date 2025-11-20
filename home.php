@@ -17,7 +17,7 @@ $username = isset($_POST['username']) ? $_POST['username'] : '';
 $password = isset($_POST['password']) ? $_POST['password'] : '';
 
 // === VULNERABLE SQL (jangan tiru di produksi) ===
-$sql = "select * from  ";
+$sql = "SELECT * FROM users ";
 $result = $conn->query($sql);
 
 if ($result && $result->num_rows === 1) {
