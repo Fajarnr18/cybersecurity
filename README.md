@@ -243,3 +243,11 @@ echo "Login gagal (secure). <a href='index.php'>Kembali</a>";
 * Setelah latihan, praktikkan perbaikan pada `secure_login.php` dan migrasikan password ke hash.
 
 ---
+#11) hasil assesment:
+
+[CYBER SECURITY.pdf](https://github.com/user-attachments/files/24486123/CYBER.SECURITY.pdf)
+
+#12) REPORTS HOSTEDSCAN:
+
+[FAJARNR_VULNERABILITYSCANREPORT.pdf](https://github.com/user-attachments/files/24486170/FAJARNR_VULNERABILITYSCANREPORT.pdf)
+
